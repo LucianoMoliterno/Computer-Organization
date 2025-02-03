@@ -40,5 +40,5 @@ Produce a comprehensive document interrelating key concepts in computer organiza
    - System Software: Firmware to Kernel
 
 3. **Writing Standards**  
-  - Follow faculty formatting (APA/ISO citations).  
-  - Explicitly reference all sources.  
+   - Follow faculty formatting (APA/ISO citations).  
+   - Explicitly reference all sources.  
